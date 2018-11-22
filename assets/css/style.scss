@@ -4,9 +4,18 @@
 @import "{{ site.theme }}";
 
 a {
-  color: #114f25
+  color: #622b36
 }
 
 a:hover {
-  color: #1A7939
+  color: #b66c7b
+}
+
+body {
+  background-color: #bc7a42;
+  color: #393939
+}
+
+h2 {
+  color: #a4485b
 }
