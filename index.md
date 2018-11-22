@@ -2,8 +2,9 @@
 layout: default
 ---
 
-# Nice to meet you!
-My name is Maike Rees, I'm 24 years young and an enthusiastic Computer Science student based in southern Germany. Here is an incomplete list of my interests: Machine learning, anomaly detection, adversarial attacks, robustness of neural networks, computer vision, speech recognition and language undestanding, clean and pretty code, autonomous cars, robots of all kindss, black coffee, good books, organizational development of voluntary clubs, swimming, salsa and bachata dancing, running and (really important) traveling.  
+## Nice to meet you!
+That's me - Maike Rees, a 24 years young enthusiastic Computer Science student based in southern Germany. Here is an incomplete list of my interests: Machine learning, anomaly detection, adversarial attacks, robustness of neural networks, computer vision, speech recognition and language undestanding, clean and pretty code, autonomous cars, robots of all kindss, black coffee, good books, organizational development of voluntary clubs, swimming, salsa and bachata dancing, running and (really important) traveling.  
+
 I'm always searching for interesting papers, smart people to talk to, cool talks and meet ups ańd new ideas of all sorts. I've been to a lot of great places in this beautiful world, including a sparse mountain village in the middle of nowhere in Nepal, vivid Silicon Valley, beautiful Canada and most recently to the absolutely underrated Baltic States (really, go there!!). Always happy about travel recommendations!
 
 # What I'm doing
@@ -14,4 +15,4 @@ Unfortunately, most things I'm currently working on are confidential. I've writt
 *   I haven't published any papers yet, but am waiting for their acceptance 
 
 
-Stay tuned! :cool:
+Stay tuned! 
