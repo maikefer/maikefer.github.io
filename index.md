@@ -16,5 +16,6 @@ Unfortunately, most things I'm currently working on are confidential, but some o
 *   I was speaking at the **Machine Learning Student Talk** of the University of Applied Sciences Karlsruhe on the 22nd of October about my bachelor's thesis.
 *   I haven't published any papers yet, but am waiting for their acceptance.
 
-
+.
+Visit me on [github](https://github.com/maikefer) or [LinkedIn](https://www.linkedin.com/in/maike-rees-8b6103150).
 Stay tuned! 
