@@ -3,20 +3,19 @@ layout: default
 ---
 
 ## Nice to meet you!
-That's me - Maike Rees, a 24 years young enthusiastic Computer Science student based in southern Germany where I just started my Masters degree. 
+That's me - Maike Rees, a 25 years young enthusiastic Computer Science student based in southern Germany where I'm in the middle of my Masters degree. 
 
 Here is an incomplete list of my interests: machine learning, anomaly detection, adversarial attacks, robustness of neural networks, computer vision, speech recognition and language undestanding, clean and pretty code, autonomous cars, robots of all kinds, black coffee, good books, organizational development of voluntary clubs, swimming, salsa and bachata dancing, running and (really important) traveling.  
-
-I'm always searching for interesting papers, smart people to talk to, cool talks and meet ups ańd new ideas of all sorts. I've been to a lot of great places in this beautiful world, including a sparse mountain village in the middle of nowhere in Nepal, vivid Silicon Valley, beautiful Canada and most recently to the absolutely underrated Baltic States (really, go there!!). Always happy about travel recommendations - my next destinations are Norway and Southern America!
 
 ## What I'm doing
 Unfortunately, most things I'm currently working on are confidential, but some old university projects are tumbling around my github profil. I've written my bachelor's thesis about The _Comparison of Machine Learning Techniques for Anomaly Detection in Autonomous Driving_ at the Volkswagen Group of America's Electronics Research Lab in sunny California and I'm currently a working student at Porsche AG, doing R&D on highly autonomous (beautiful and fast) cars.
 
-## Things to Read / Listen to
-*   I was speaking at the **Machine Learning Student Talk** of the University of Applied Sciences Karlsruhe on the 22nd of October about my bachelor's thesis.
-*   I haven't published any papers yet, but am waiting for their acceptance.
+## Publications
+*   I was speaking at the **Machine Learning Student Talk** of the University of Applied Sciences Karlsruhe on the 22nd of October 2018 about my bachelor's thesis.
+* **Maike Rees**, Melanie Senn, Pratik P. Brahma, Astrid Laubenheimer: _Modular Novelty Detection System for Driving Scenarios._ CERC 2019
+* Sascha Saralajew, Lars Holdijk, **Maike Rees**, Thomas Villmann: _Robustness of Generalized Learning Vector Quantization Models Against Adversarial Attacks._ WSOM+ 2019 [arxiv](https://arxiv.org/abs/1902.00577)
+* Sascha Saralajew, Lars Holdijk, **Maike Rees**, Thomas Villmann: _Prototype-based Neural Network Layers: Incorporating Vector Quantization._ [arxiv](https://arxiv.org/abs/1812.01214)
 
 
 Visit me on [github](https://github.com/maikefer) or [LinkedIn](https://www.linkedin.com/in/maike-rees-8b6103150).
 
-Stay tuned! 
