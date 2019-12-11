@@ -18,23 +18,23 @@ I'm also coding an eclipse plugin that let's you analyse text.The code in my git
 In my free time I swim, dance (salsa and bachata) and lift weights. I also volunteer a lot at my Lifesaving Club (DLRG - Deutsche-Lebens-Rettungs-Gesellschaft), especially teaching kids how to swim and teaching trainers how to teach. I also enjoy traveling a lot.
 
 ## Publications
-**Classification-by-Components: Probabilistic Modeling of Reasoning over a Set of Components**,
-Sascha Saralajew, Lars Holdijk, Maike Rees, Ebubekir Asan, Thomas Villmann, _NeurIPS 2019_ 
+**Classification-by-Components: Probabilistic Modeling of Reasoning over a Set of Components**,<br/>
+Sascha Saralajew, Lars Holdijk, Maike Rees, Ebubekir Asan, Thomas Villmann; _NeurIPS 2019_ <br/>
 [**>Paper**](https://papers.nips.cc/paper/8546-classification-by-components-probabilistic-modeling-of-reasoning-over-a-set-of-components.pdf)     [**>Poster**](https://www.dropbox.com/sh/f2o34nc1fvbczeu/AACyv1nnGKtJegBeZhWi949za?dl=0&preview=Poster+-+Classification+By+Components.pdf)   [**>Code**](https://github.com/saralajew/cbc_networks)
 
 
-**Robustness of Generalized Learning Vector Quantization Models Against Adversarial Attacks**,
-Sascha Saralajew, Lars Holdijk, Maike Rees, Thomas Villmann, _WSOM 2019_
+**Robustness of Generalized Learning Vector Quantization Models Against Adversarial Attacks**,<br/>
+Sascha Saralajew, Lars Holdijk, Maike Rees, Thomas Villmann; _WSOM 2019_ <br/>
 [**>Paper**](https://arxiv.org/pdf/1902.00577.pdf)    [**>Code**](https://github.com/LarsHoldijk/robust_LVQ_models)
 
 
-**Prototype-based Neural Network Layers: Incorporating Vector Quantization**, 
-Sascha Saralajew, Lars Holdijk, Maike Rees, Thomas Villmann
+**Prototype-based Neural Network Layers: Incorporating Vector Quantization**, <br/>
+Sascha Saralajew, Lars Holdijk, Maike Rees, Thomas Villmann, <br/>
 [**>Technical Report**](https://arxiv.org/abs/1812.01214)  [**>NeurIPS 2018 Workshop Poster**](https://larsholdijk.github.io/publication/pub2018a/poster.pdf)
 
 
-**Modular Novelty Detection System for Driving Scenarios**,
-Maike Rees, Melanie Senn, Pratik P. Brahma, Astrid Laubenherim, _CERC 2019_
+**Modular Novelty Detection System for Driving Scenarios**, <br/>
+Maike Rees, Melanie Senn, Pratik P. Brahma, Astrid Laubenherim; _CERC 2019_
 
 ## Talks
 Machine Learning Student Talk of the University of Applied Sciences Karlsruhe in October 2018 about _Modular Novelty Detection System for Driving Scenarios_
