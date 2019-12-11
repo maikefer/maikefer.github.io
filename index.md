@@ -3,9 +3,9 @@ layout: default
 ---
 
 ## Maike Rees
-Hi, let me introduce myself. I'm a 25 years young enthusiastic Computer Science student based in southern Germany. I'm in my third semester of my Master's degree with focus on artificial intelligence. I'm a working student at Porsche AG doing research on autonomous driving. I did my bachelor's thesis in silicon vally at Volkswagen Group of America's Electronics Research Lab about **Comparison of Machine Learning Techniques for Anomaly Detection in Autonomous Driving**.
+Hi, let me introduce myself. I'm a 25 years young enthusiastic Computer Science student based in southern Germany. I'm in my third semester of my Master's degree with focus on artificial intelligence. I'm a working student at Porsche AG doing research on autonomous driving. I did my bachelor's thesis in silicon vally at Volkswagen Group of America Electronics Research Lab about **Comparison of Machine Learning Techniques for Anomaly Detection in Autonomous Driving**.
 
-My main interests are machine learning and computer vision, especially their application in medicine and automotive and accessability. 
+My main interests are machine learning and computer vision, especially their application in medicine and automotive. 
 I also like: scientific writing, accesability, clean code standards, teaching.
 
 This semester I'm writing small essays about
