@@ -3,6 +3,8 @@ layout: default
 ---
 
 ## Maike Rees
+([github](https://github.com/maikefer) | [Google Scholar](https://scholar.google.de/citations?user=7ervD1UAAAAJ&hl=de&oi=ao) | [LinkedIn] (https://www.linkedin.com/in/maike-rees-8b6103150))
+
 Hi, let me introduce myself. I'm a 25 years young enthusiastic Computer Science student based in southern Germany. I'm in my fourth semester of my master's degree with a strong focus on artificial intelligence and a smaller focus on software engineering. Currently, I'm figuring out the details of my master's thesis which will be in the field of **explainability of deep neural networks and its application to heart arrythmia localization based on ECG signals**. 
 
 Until recently, I have worked at Porsche AG doing research on autonomous driving. I did my bachelor's thesis in silicon vally at Volkswagen Group of America Electronics Research Lab about **Comparison of Machine Learning Techniques for Anomaly Detection in Autonomous Driving**.
@@ -31,12 +33,12 @@ Sascha Saralajew, Lars Holdijk, Maike Rees, Thomas Villmann, <br/>
 
 
 **Modular Novelty Detection System for Driving Scenarios**, <br/>
-Maike Rees, Melanie Senn, Pratik P. Brahma, Astrid Laubenherim; _CERC 2019_
+Maike Rees, Melanie Senn, Pratik P. Brahma, Astrid Laubenheimer; _CERC 2019_
 
 ## Talks
 Machine Learning Student Talk of the University of Applied Sciences Karlsruhe in October 2018 about _Modular Novelty Detection System for Driving Scenarios_
 
 
 
-Visit me on [github](https://github.com/maikefer), [googleScholar](https://scholar.google.de/citations?user=7ervD1UAAAAJ&hl=de&oi=ao)  or [LinkedIn](https://www.linkedin.com/in/maike-rees-8b6103150).
+Visit me on [github](https://github.com/maikefer), [Google Scholar](https://scholar.google.de/citations?user=7ervD1UAAAAJ&hl=de&oi=ao)  or [LinkedIn](https://www.linkedin.com/in/maike-rees-8b6103150).
 
