@@ -3,19 +3,16 @@ layout: default
 ---
 
 ## Maike Rees
-Hi, let me introduce myself. I'm a 25 years young enthusiastic Computer Science student based in southern Germany. I'm in my third semester of my Master's degree with focus on artificial intelligence. I'm a working student at Porsche AG doing research on autonomous driving. I did my bachelor's thesis in silicon vally at Volkswagen Group of America Electronics Research Lab about **Comparison of Machine Learning Techniques for Anomaly Detection in Autonomous Driving**.
+Hi, let me introduce myself. I'm a 25 years young enthusiastic Computer Science student based in southern Germany. I'm in my fourth semester of my master's degree with a strong focus on artificial intelligence and a smaller focus on software engineering. Currently, I'm figuring out the details of my master's thesis which will be in the field of explainability of deep neural networks and its application to heart arrythmia localization based on ECG signals. 
+
+I have worked at Porsche AG doing research on autonomous driving. I did my bachelor's thesis in silicon vally at Volkswagen Group of America Electronics Research Lab about **Comparison of Machine Learning Techniques for Anomaly Detection in Autonomous Driving**.
 
 My main interests are machine learning and computer vision, especially their application in medicine and automotive. 
 I also like: scientific writing, accesability, clean code standards, teaching.
 
-This semester I'm writing small essays about
-* Artefact Detection in EEG signals for Brain Computer Interfaces,
-* A Survey on Neural Network Initialization Methods and
-* A Survey about Web Accessability through Content Management Systems.
+Last semester I have been writing small essays about _Artefact Detection in EEG signals for Brain Computer Interfaces_ (also did a lot of implementations) and _A Survey on Neural Network Initialization Methods_. I also coded a Eclipse-Plugin to enable NLP-analysis of textfiles. You can find according code in my github profile, as well are old university projects (I've learned a lot since I wrote these lines of code ;-)). Sadly, a couple of current projects are confident. 
 
-I'm also coding an eclipse plugin that let's you analyse text.The code in my github profile are old university projects since recent projects are all confident. I've learned a lot since I wrote these lines of code ;-)
-
-In my free time I swim, dance (salsa and bachata) and lift weights. I also volunteer a lot at my Lifesaving Club (DLRG - Deutsche-Lebens-Rettungs-Gesellschaft), especially teaching kids how to swim and teaching trainers how to teach. I also enjoy traveling a lot.
+In my free time I swim, run, dance (salsa and bachata) and lift weights. I also volunteer extensively at my Lifesaving Club (DLRG - Deutsche-Lebens-Rettungs-Gesellschaft), especially teaching kids how to swim and teaching trainers how to teach. I also enjoy traveling a lot.
 
 ## Publications
 **Classification-by-Components: Probabilistic Modeling of Reasoning over a Set of Components**,<br/>
