@@ -38,5 +38,5 @@ Machine Learning Student Talk of the University of Applied Sciences Karlsruhe in
 
 
 
-Visit me on [github](https://github.com/maikefer), [googleScholar] (https://scholar.google.de/citations?user=7ervD1UAAAAJ&hl=de&oi=ao)  or [LinkedIn](https://www.linkedin.com/in/maike-rees-8b6103150).
+Visit me on [github](https://github.com/maikefer), [googleScholar](https://scholar.google.de/citations?user=7ervD1UAAAAJ&hl=de&oi=ao)  or [LinkedIn](https://www.linkedin.com/in/maike-rees-8b6103150).
 
