@@ -5,7 +5,7 @@ layout: default
 ## Maike Rees
 ([github](https://github.com/maikefer) | [Google Scholar](https://scholar.google.de/citations?user=7ervD1UAAAAJ&hl=de&oi=ao) | [LinkedIn](https://www.linkedin.com/in/maike-rees-8b6103150))
 
-Hi, let me introduce myself. I'm a 25 years young enthusiastic Computer Science student based in southern Germany. I'm in my fourth semester of my master's degree with a strong focus on artificial intelligence and a smaller focus on software engineering as well as robotics.
+Hi, let me introduce myself. I'm a 26 years young enthusiastic Computer Science student based in southern Germany. I'm in my fourth semester of my master's degree with a strong focus on artificial intelligence and a smaller focus on software engineering as well as robotics.
 
 Until recently, I have worked at Porsche AG doing research on autonomous driving. I did my bachelor's thesis in silicon vally at Volkswagen Group of America Electronics Research Lab about **Comparison of Machine Learning Techniques for Anomaly Detection in Autonomous Driving**.
 
