@@ -31,7 +31,7 @@ Sascha Saralajew, Lars Holdijk, Maike Rees, Thomas Villmann; _WSOM 2019_ <br/>
 
 **Prototype-based Neural Network Layers: Incorporating Vector Quantization**, <br/>
 Sascha Saralajew, Lars Holdijk, Maike Rees, Thomas Villmann, <br/>
-[**>Technical Report**](https://arxiv.org/abs/1812.01214)  [**>NeurIPS 2018 Workshop Poster**](https://github.com/maikefer/maikefer.github.io/ressources/2018poster.pdf)
+[**>Technical Report**](https://arxiv.org/abs/1812.01214)  [**>NeurIPS 2018 Workshop Poster**](https://github.com/maikefer/maikefer.github.io/blob/master/ressources/2018poster.pdf)
 
 
 **Modular Novelty Detection System for Driving Scenarios**, <br/>
