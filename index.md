@@ -9,7 +9,7 @@ Hi, let me introduce myself. I'm a 26 years young enthusiastic Computer Science 
 
 Until recently, I have worked at Porsche AG doing research on autonomous driving. I did my bachelor's thesis in silicon valley at Volkswagen Group of America Electronics Research Lab about **Comparison of Machine Learning Techniques for Anomaly Detection in Autonomous Driving**.
 
-Currently, I'm writing my master's thesis with the topic **Analysis of the Explainability of a Deep Learning Algorithm for the Localization of Ventricular Ectopic Foci based on Body Surface Potential Maps** at the Insitute of Biomedical engineering (IBT) at the KIT. Besides, I have a small position as student research assistent at the Institute of Applied Materials (IAM-WK, KIT as well), researching and implementing automated defect detection in X-Ray images of manufacturing parts.
+Currently, I'm writing my master's thesis with the topic **Analysis of the Explainability of a Deep Learning Algorithm for the Localization of Ventricular Ectopic Foci based on Body Surface Potential Maps** at the Institute of Biomedical engineering (IBT) at the KIT. Besides, I have a small position as student research assistent at the Institute of Applied Materials (IAM-WK, KIT), researching and implementing automated defect detection in X-Ray images of manufacturing parts.
 
 My main interests are machine learning and computer vision, especially their application in medicine and automotive. 
 I also like: scientific writing, accesability, clean code standards and teaching.
