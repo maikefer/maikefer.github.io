@@ -12,7 +12,7 @@ Until recently, I have worked at Porsche AG doing research on autonomous driving
 Currently, I'm writing my master's thesis with the topic **Analysis of the Explainability of a Deep Learning Algorithm for the Localization of Ventricular Ectopic Foci based on Body Surface Potential Maps** at the Institute of Biomedical engineering (IBT) at the KIT. Besides, I have a small position as student research assistent at the Institute of Applied Materials (IAM-WK, KIT), researching and implementing automated defect detection in X-Ray images of manufacturing parts.
 
 My main interests are machine learning and computer vision, especially their application in medicine and automotive. 
-I also like: scientific writing, accesability, clean code standards and teaching.
+I also like: scientific writing, accessibility, clean code standards and teaching.
 
 Last semester I have written small essays about _Artefact Detection in EEG signals for Brain Computer Interfaces_ (also did a lot of implementations) and _A Survey on Neural Network Initialization Methods_. I also coded an Eclipse-Plugin to enable NLP-analysis of text files. You can find the according code in my github profile, as well as old university projects (I've learned a lot since I wrote these lines of code ;-)). Sadly, a couple of current projects are confident. 
 
