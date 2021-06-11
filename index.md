@@ -36,7 +36,7 @@ Sascha Saralajew, Lars Holdijk, Maike Rees, Thomas Villmann, <br/>
 
 **Modular Novelty Detection System for Driving Scenarios**, <br/>
 Maike Rees, Melanie Senn, Pratik P. Brahma, Astrid Laubenheimer; _CERC 2019_ <br/>
-[**>Paper>**](http://ceur-ws.org/Vol-2348/short04.pdf)
+[**>Paper**](http://ceur-ws.org/Vol-2348/short04.pdf)
 
 ## Talks
 Machine Learning Student Talk of the University of Applied Sciences Karlsruhe in October 2018 about _Modular Novelty Detection System for Driving Scenarios_
