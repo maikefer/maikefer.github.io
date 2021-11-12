@@ -5,18 +5,16 @@ layout: default
 ## Maike Rees
 ([github](https://github.com/maikefer) | [Google Scholar](https://scholar.google.de/citations?user=7ervD1UAAAAJ&hl=de&oi=ao) | [LinkedIn](https://www.linkedin.com/in/maike-rees-8b6103150))
 
-Hi, let me introduce myself. I'm a 26 years young enthusiastic Computer Science student based in southern Germany. I'm in my fourth semester of my master's degree with a strong focus on artificial intelligence and a smaller focus on software engineering as well as robotics.
+Hi! 
+My name is Maike, I am 27 and just started my PhD to research for a better tomorrow. Let me introduce myself by highlighting the main stages of my career so far. 
 
-Until recently, I have worked at Porsche AG doing research on autonomous driving. I did my bachelor's thesis in silicon valley at Volkswagen Group of America Electronics Research Lab about **Comparison of Machine Learning Techniques for Anomaly Detection in Autonomous Driving**.
+My Bachelor was about Media, Communication and Computer Science where I gained a very good and hands-on training in classic software development. I included a  a semester abroad in Canada (close to Toronto) and wrote my Bachelor's thesis in beautiful San Francisco about **Comparison of Machine Learning Techniques for Anomaly Detection in Autonomous Driving** at the Volkswagen Group of America Electronics Research Lab.
 
-Currently, I'm writing my master's thesis with the topic **Analysis of the Explainability of a Deep Learning Algorithm for the Localization of Ventricular Ectopic Foci based on Body Surface Potential Maps** at the Institute of Biomedical engineering (IBT) at the KIT. Besides, I have a small position as student research assistent at the Institute of Applied Materials (IAM-WK, KIT), researching and implementing automated defect detection in X-Ray images of manufacturing parts.
+I did my Master in Computer Science at the KIT in Karlsruhe with a focus on artificial intelligence (and a bit of software engineering). During my master studies, I gained experience in industrial, academic and interdisciplinary research: at the R&D department of Porsche in Weissach, I held a working student position about robust autonomous driving and I am especially proud of our "Classification by Components" Paper that was accepted at NeurIPS2019 (find more details below); at the Institute of Applied Materials (IAM-WK) at the faculty of mechanical engineering I worked as a student assistant, researching AI for quality assurance. Even more interdisciplinary experience origins from my Master's thesis that I wrote about the **Analysis of the Explainability of a Deep Learning Algorithm for the Localization of Ventricular Ectopic Foci based on Body Surface Potential Maps** at the Institute of Biomedical Eengineering (IBT) at the faculty of electrical engineering and information technology at the KIT.
 
-My main interests are machine learning and computer vision, especially their application in medicine and automotive. 
-I also like: scientific writing, accessibility, clean code standards and teaching.
+In 2021 I started my PhD at the **DKFZ (German cancer research center)** in the group of Lena Maier-Hein, called Computer Assisted Medical Intervention (CAMI) where I work on computer vision and machine learning with uncertainty prediction to make surgeries safer. I am interested in computer vision (especially concerning non-RGB images), explainable AI (XAI), safe AI, robust AI, uncertainty in AI, scientific writing, clean code (especially in research opposed to classic software engineering) and teaching.
 
-Last semester I have written small essays about _Artefact Detection in EEG signals for Brain Computer Interfaces_ (also did a lot of implementations) and _A Survey on Neural Network Initialization Methods_. I also coded an Eclipse-Plugin to enable NLP-analysis of text files. You can find the according code in my github profile, as well as old university projects (I've learned a lot since I wrote these lines of code ;-)). Sadly, a couple of current projects are confident. 
-
-In my free time I swim, run, dance (salsa and bachata), lift weights, read and do yoga. I also volunteer extensively at my Lifesaving Club (DLRG - Deutsche-Lebens-Rettungs-Gesellschaft), especially teaching kids how to swim, teaching students the skills of life saving and teaching trainers how to teach their students. I also enjoy traveling a lot.
+In my free time I swim, run, dance (salsa), lift weights, read, surf and do yoga. I also volunteer extensively at my Lifesaving Club (DLRG - Deutsche-Lebens-Rettungs-Gesellschaft), especially teaching kids how to swim, teaching students the skills of life saving and teaching trainers how to teach their students. I also enjoy traveling a lot.
 
 ## Publications
 **Classification-by-Components: Probabilistic Modeling of Reasoning over a Set of Components**,<br/>
