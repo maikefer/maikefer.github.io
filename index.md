@@ -12,4 +12,4 @@ Sadly, you won't find much recent code on **[github](https://github.com/maikefer
 
 On a more personal side, I'm into swimming, reading, taekwondo, surfing and of course traveling. I volunteer extensively at my Lifesaving Club (Deutsche-Lebens-Rettungs-Gesellschaft (DLRG)), especially teaching kids how to swim, teaching students the skills of life saving and teaching trainers how to teach their students. 
 
-Get in touch via my **[institute profile][https://www.dkfz.de/en/employees/maike-rees]**!
+Get in touch via my **[institute profile](https://www.dkfz.de/en/employees/maike-rees)**!
