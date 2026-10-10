@@ -2,7 +2,6 @@
 layout: default
 ---
 
-## Maike Rees
 Hi! 
 
 My name is Maike, I am 32 years young and currently pursuing my PhD in Heidelberg in the group of Prof. Dr. Lena Maier-Hein called 'Intelligent Medical Systems'. 
